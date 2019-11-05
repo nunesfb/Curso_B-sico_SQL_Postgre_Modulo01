@@ -1,1 +1,1 @@
-# Curso_B-sico_SQL_Postgre_Modulo01
+# Curso_Basico_SQL_Postgre_Modulo01
