@@ -1,37 +1,42 @@
+<p align="center">
+  <img alt="LogoTecEdu4All" src="https://yt3.googleusercontent.com/dmw2l1Yz24lOBeG175P6ovEnNdNI3zNVoMiUMRNyqE8o_ECDsvU1ttPNRWCB_VAXZlOcLKsiYKQ=s176-c-k-c0x00ffffff-no-rj" width="120px" />
+</p>
+
 <h1 align="center">
-  <img alt="LogoTecEdu4All" src="http://materiaisaulas.tecedu4all.com.br/canal/logo.png" width="120px" />
+  Curso de SQL com Postgres
 </h1>
 
-<h3 align="center">
-  Curso Básico de SQL com Postgres - Módulo 01
-</h3>
+<p align="justify">Seja bem-vindo à nossa jornada de aprendizado, onde mergulhamos nas profundezas do SQL utilizando o poderoso PostgreSQL. Essa playlist oferece uma experiência completa, desde conceitos básicos até técnicas avançadas para transformar você em um mestre em manipulação de dados.</p> 
 
-<p align="center">Estes códigos pertencem à playlist de vídeos do canal TecEdu4All no YouTube</p> 
+<p align="justify">Estes códigos pertencem à playlist do canal do YouTube TecEdu4All. </p> 
 
+<p align="justify">Se gostou do repositório, deixe sua estrela ⭐ </p> 
+
+<br/>
 
 ## 👨🏼‍💻 Professor
 
-- [Felipe Becker Nunes](https://github.com/nunesfb)
+- [Felipe Becker Nunes](https://www.linkedin.com/in/felipe-becker-nunes-b561a576/)
 
-## 💻 Playlist
+## 💻 Playlist/Vídeo
 
-- [Curso Básico de SQL com Postgres - Módulo 01](https://www.youtube.com/playlist?list=PL2hDwB8DzXGP-pMRJUsg-yPGwZ_TheEgA)
+- [Curso de SQL com Postgres](https://www.youtube.com/playlist?list=PL2hDwB8DzXGP-pMRJUsg-yPGwZ_TheEgA)
 
 ## ✋🏻 Pré-requisitos
 
-- [Postgres](https://www.postgresql.org/download/)
+- [Node.js](https://nodejs.org/en/)
 
-## 🔥 Instalação e execução
+## 🔥 Instruções de Instalação e Execução
 
-1. Faça um clone desse repositório;
-2. Entre em uma das pastas do repositório;
-3. Importe os arquivos com extensão SQL para o editor PGADMIN no Postgres;
+1. Clone esse repositório.
+2. Instale os softwares necessários.
+3. Abra o Postgres e rode os comandos.
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. 
+- Este projeto tem licença MIT. 
 
 ---
 
-[Se inscreva no canal para ver os vídeos deste código e muito mais!](https://www.youtube.com/channel/UClIDejJoLMKCfXKEyi5ZTWQ)
+[Inscreva-se no canal para ver estes vídeos e muito mais!](https://www.youtube.com/channel/UClIDejJoLMKCfXKEyi5ZTWQ)
 
